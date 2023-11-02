@@ -11,7 +11,7 @@
 
 AndroidStuido版本: *Android Studio Flamingo | 2022.2.1 Patch 2*
 
-![image-20231102172847501](C:\Users\WHui\AppData\Roaming\Typora\typora-user-images\image-20231102172847501.png)
+![image-20231102172847501](image\20231102182412.png)
 
 之后就可以顺利打包出一个release包 然后安装在手机中.....
 
